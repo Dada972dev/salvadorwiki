@@ -3,7 +3,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import sidebars from './sidebars'; // Assurez-vous que ce chemin est correct
 
 const config: Config = {
-  title: 'Nationsglory Bedrock wiki salvador',
+  title: 'wiki salvador',
   tagline: 'Bienvenue',
   favicon: 'img/ng.ico',
   url: 'https://Dada972dev.github.io',
